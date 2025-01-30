@@ -48,7 +48,7 @@ Este repositório contém uma coleção de exercícios de programação embarcad
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/CostaDianna/Embarcatech.git
+  (https://github.com/CostaDianna/Tarefas_Embarcatech.git)
 Navegue até a pasta do projeto:
 
 bash
