@@ -8,10 +8,11 @@ Este repositório contém uma coleção de exercícios de programação embarcad
 
 ### Exercício 1: Contagem de Botões e Piscar do LED
 
-- **Arquivo**: `exercicio1.c`
+- **Arquivo**: `Tarefaexer1un4cap5`
 - **Descrição**: Este programa conta quantas vezes um botão é pressionado. Ao atingir 5 pressões, o LED pisca por 10 segundos.
 - **Uso**: Conecte a placa RP2040 ao computador e carregue o firmware. Monitore as mensagens de depuração utilizando PuTTY.
 
+  
 ## Requisitos
 
 - RP2040
@@ -26,16 +27,6 @@ Este repositório contém uma coleção de exercícios de programação embarcad
 Este repositório contém uma coleção de exercícios de programação embarcada utilizando a placa RP2040.
 
 ## Exercícios
-
-### Exercício 1: Contagem de Botões e Piscar do LED
-
-- **Arquivo**: `exercicio1.c`
-- **Descrição**: Este programa conta quantas vezes um botão é pressionado. Ao atingir 5 pressões, o LED pisca por 10 segundos.
-- **Uso**: Conecte a placa RP2040 ao computador e carregue o firmware. Monitore as mensagens de depuração utilizando PuTTY.
-
-- **Arquivo**: `exercicio4.c`
-- **Descrição**: [Descrição breve do que este código faz.]
-- **Uso**: [Instruções para usar este código.]
 
 
 ## Requisitos
